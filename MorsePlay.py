@@ -1,3 +1,5 @@
+# An example of sound and LED display of Morse code, rewritten using MicroPython on ESP32.
+
 import machine
 import time
 
